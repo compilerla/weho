@@ -1,5 +1,7 @@
 # Dependencies
 markdown:            redcarpet
+redcarpet:
+    extensions: [with_toc_data]
 highlighter:         pygments
 
 # Permalinks
@@ -9,8 +11,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
+title:               LA Open Data
+tagline:             'Policy and Playbook'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 http://lanyon.getpoole.com
 baseurl:             /
