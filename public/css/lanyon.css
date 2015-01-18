@@ -307,6 +307,7 @@ a.sidebar-nav-item:focus {
 .post-title,
 .post-title a {
   color: #303030;
+  font-weight: bold;
 }
 .page-title,
 .post-title {
@@ -500,7 +501,8 @@ a.pagination-item:hover {
 .theme-base-0d .container a,
 .theme-base-0d .sidebar-toggle,
 .theme-base-0d .related-posts li a:hover {
-  color: #3399cc;
+  color: black;
+  font-weight: bold;
 }
 
 /* Magenta */
