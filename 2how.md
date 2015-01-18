@@ -89,6 +89,3 @@ The City’s Chief Data Officer, the Chief Innovation and Technology Officer –
 [^3]: See appendix for list
 [^4]: See appendix for sample checklist
 [^5]: Currently, all administrators of the portal are notified for any and all interactions with the site. This is a proposed change to streamline communications.
-
-
-

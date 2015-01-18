@@ -20,45 +20,29 @@ title: "Appendix"
 
 ## Draft Data Checklist Template
 
-Field	Example
-
-Department/Division	
-Dataset name	
-Brief description of data	
-Data Steward (Business knowledge) - Name	
-Data Steward (Business knowledge) - Email	
-Data source
-What information system or database contains the data? 	
-Start date:
-MM/DD/YYYY	
-End date: 
-MM/DD/YYYY. 
-If the data is still being updated, use "Current".	
-Geographic coverage	
-Geographic granularity:
-address, census tract, county, zip code	
-Update Frequency:
-Daily, monthly, quarterly, annually	
-Collection Frequency:
-Daily, monthly, quarterly, annually	
-Existing publication:
-Y/N	
-Link to existing publication
-(If exists)	
-Priority/value:
-High, Medium, or Low	
-Priority/value comments	
-Technical challenges	
-Data Classification:
-PUBLIC; PROTECTED; or SENSITIVE.	
-Protected - Details
-(If selected)	
-Sensitive - Details:
-Level 1, Level 2, Level 3
-(If selected)	
-Data Quality:
-High, Medium, or Low	
-Data Quality - Details	
+* Department/Division	
+* Dataset name	
+* Brief description of data	
+* Data Steward (Business knowledge) - Name	
+* Data Steward (Business knowledge) - Email	
+* Data source
+* What information system or database contains the data? 	
+* Start date: (MM/DD/YYYY)
+* End date: (MM/DD/YYYY; if the data is still being updated, use "Current")
+* Geographic coverage	
+* Geographic granularity: (address, census tract, county, zip code)
+* Update Frequency: (Daily, monthly, quarterly, annually)
+* Collection Frequency: (Daily, monthly, quarterly, annually)
+* Existing publication: (Y/N)	
+* Link to existing publication (If exists)	
+* Priority/value: (High, Medium, or Low)
+* Priority/value comments	
+* Technical challenges	
+* Data Classification: (PUBLIC; PROTECTED; or SENSITIVE.)
+* Protected - Details (If selected)	
+* Sensitive - Details: (Level 1, Level 2, Level 3; if selected)	
+* Data Quality: (High, Medium, or Low)
+* Data Quality - Details	
 
 ## Security Considerations
 When considering a dataset for publication on data.lacity.org, it’s review process will differ based on which security level it falls into:
