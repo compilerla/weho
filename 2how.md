@@ -23,7 +23,9 @@ To effectively fulfill on the requirements of the Open Data Executive Directive,
 ### Stakeholders
 The Program relies on the involvement of three key organizations: the departments, the Information Technology Agency (ITA), and the Mayor’s Office. The effective collaboration of these three groups, and key individuals within them, should result in the publication of relevant, accurate, and up-to-date data. The following details the key responsibilities of each group and the general roles within them.  
 
-Who’s Who?
+#### Who’s Who?
+
+![Roles]({{ site.baseurl }}/public/img/roles.png)
 
 #### Department
 * Department Leadership: GM, AGM, or designee for the department who will provide final department-level approval for data publication, prior to Mayor’s Office review.
@@ -42,6 +44,8 @@ Who’s Who?
 These stakeholders will work collaboratively on every dataset published to ensure it meets the City’s expectations. 
 
 ### Review & Approval Process
+
+![Overview]({{ site.baseurl }}/public/img/overview.png)
 
 Which data sets will be opened will be determined through a data inventory process developed by Departmental Open Data Coordinators, in collaboration with the CDO. Once a dataset is identified, however, all the key stakeholders will be engaged through the following review and approval process. 
 
@@ -65,6 +69,8 @@ If approved at this stage, the CDO will begin to develop a publication strategy 
 Given the commitment to ensuring published data reaches those interested in it, the City will thoughtfully consider how and when to release the data set. The CDO will work with the Mayor’s Communications and Policy teams to coordinate a publication strategy. Tactics may include, but is not limited to: blog post, social media, press release, incorporation with a public event or another announcement, and hosting a specific event (e.g. hack-a-thon, etc).  Once the publication strategy is in place, the CDO will accordingly publish the data, notifying the department stakeholders and ITA. Following that, the Open Data Coordinator and Data Steward will be responsible for keeping the data up-to-date and accurate.
 
 In summary, at the department-level, the Open Data Coordinator and the Data Steward/Owner are responsible for preparing the data with a focus on data quality and documentation; once ready they shall deliver the draft data to the CDO, who shall coordinate with ITA and the Mayor’s Office to vet the release for legal (security, privacy) and quality issues through standard frameworks and craft then execute a strategic publication plan. 
+
+![Details]({{ site.baseurl }}/public/img/flow.png)
 
 ## Communications
 With the number of stakeholders, ensuring clear and organized communications is critical. To organize communications, the City relies on the Open Data Portal’s automatic notification and workflow management system. 

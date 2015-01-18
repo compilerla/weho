@@ -165,6 +165,8 @@ Once you have defined what exists in your source systems and completed your data
 ### Publication Calendar
 Finally, consider the various considerations in the inventory (potentially scoring them on a 1-5 system) and develop a ranking. Once these datasets are ranked, you can begin building out your publishing calendar for the year. Publishing at a consistent rate allows the open data team to budget time for data preparation and proper coordination with the communication or public affairs team and ensures higher quality data. Here is a sample publishing calendar:
 
+![calendar]({{ site.baseurl }}/public/img/calendar.png)
+
  
 
 
