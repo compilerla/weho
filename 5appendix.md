@@ -5,23 +5,18 @@ title: "Appendix"
 
 ## Definitions
 
-Term	Definition
-Dataset	Contents of a single database table, worksheet or defined view; data is provided as a single combination of unique rows (or records) and corresponding columns (or fields) describing that row
-
-Example - Database: A database may contain several data tables - each data table constitutes a dataset. However, you could also create new datasets by combining data from different tables into a new table.
-Data Schema or Standard	Specification that defines the structure of the data (i.e. required data elements and types and supporting definitions)
-
-Data source	Technology or system that stores data, including databases, named spreadsheets, information systems, business applications, etc.
-ETL	Extract, Transform, Load -  three database functions that are combined into one tool to pull data out of one database and place it into another.
-
-* Extract - process of reading data from a database.
-* Transform - process of converting the extracted data from its previous form into the form it needs to be in so that it can be placed into another database.  (rules, lookup tables, combining with other data)
-* Load - process of writing the data into the target database.
-
-Geospatial data	Data related to the position of things in the real world, including boundaries or locations
-Metadata 	Descriptive information about a dataset
-Tabular 	Data that is presented in columns or tables
-Taxonomy or Category	Methodology by which items or datasets are classified or grouped under a similar theme or topic
+* **Dataset**: Contents of a single database table, worksheet or defined view; data is provided as a single combination of unique rows (or records) and corresponding columns (or fields) describing that row
+* **Database**: A database may contain several data tables - each data table constitutes a dataset. However, you could also create new datasets by combining data from different tables into a new table.
+* **Data Schema or Standard**: Specification that defines the structure of the data (i.e. required data elements and types and supporting definitions)
+* **Data source**: Technology or system that stores data, including databases, named spreadsheets, information systems, business applications, etc.
+* **ETL**: Extract, Transform, Load: three database functions that are combined into one tool to pull data out of one database and place it into another.
+	* *Extract* - process of reading data from a database.
+	* *Transform* - process of converting the extracted data from its previous form into the form it needs to be in so that it can be placed into another database.  (rules, lookup tables, combining with other data)
+	* *Load* - process of writing the data into the target database.
+* **Geospatial data**: Data related to the position of things in the real world, including boundaries or locations
+* **Metadata**: Descriptive information about a dataset
+* **Tabular**: Data that is presented in columns or tables
+* **Taxonomy or Category**: Methodology by which items or datasets are classified or grouped under a similar theme or topic
 
 ## Draft Data Checklist Template
 
