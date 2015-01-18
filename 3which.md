@@ -47,52 +47,52 @@ Once you have defined what exists in your source systems and completed your data
  1536;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td width=89 valign=top style='width:88.5pt;background:#666666;padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p style='line-height:normal;mso-pagination:none'><o:p>&nbsp;</o:p></p>
+  <p><o:p>&nbsp;</o:p></p>
   </td>
   <td width=119 valign=top style='width:119.25pt;background:#666666;padding:
   5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p style='line-height:normal;mso-pagination:none'><b
+  <p><b
  ><span style='color:white'>Passive
   Publishing</span></b></p>
   </td>
   <td width=115 valign=top style='width:114.75pt;background:#666666;padding:
   5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p style='line-height:normal;mso-pagination:none'><b
+  <p><b
  ><span style='color:white'>Active
   Publishing </span></b></p>
   </td>
   <td width=135 valign=top style='width:135.0pt;background:#666666;padding:
   5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p style='line-height:normal;mso-pagination:none'><b
+  <p><b
  ><span style='color:white'>Strategic
   Publishing</span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1'>
   <td width=89 valign=top style='width:88.5pt;padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p style='line-height:normal;mso-pagination:none'><b
+  <p><b
  >Data Location</b></p>
   </td>
   <td width=119 valign=top style='width:119.25pt;padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p style='line-height:normal;mso-pagination:none'>Publicly
+  <p>Publicly
   available in digital or print format</p>
   </td>
   <td>
-  <p style='line-height:normal;mso-pagination:none'>Unpublished
+  <p>Unpublished
   but shared internally upon request</p>
   </td>
   <td>
-  <p style='line-height:normal;mso-pagination:none'>Unpublished
+  <p>Unpublished
   but shared internally upon request</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2'>
   <td>
-  <p style='line-height:normal;mso-pagination:none'><b
+  <p><b
  >Data Security Level (High, Medium, Low)</b></p>
   </td>
   <td>
-  <p style='line-height:normal;mso-pagination:none'>Dataset
+  <p>Dataset
   contains no Personal Identifiable Information (PII) or sensitive content</p>
   </td>
   <td>
@@ -107,76 +107,74 @@ Once you have defined what exists in your source systems and completed your data
  </tr>
  <tr style='mso-yfti-irow:3'>
   <td>
-  <p style='line-height:normal;mso-pagination:none'><b
- >Data cleaning </b></p>
+  <p><b>Data cleaning </b></p>
   </td>
   <td>
-  <p style='line-height:normal;mso-pagination:none'>Dataset can
+  <p>Dataset can
   be generated in less than one day</p>
   </td>
   <td>
   <p>Requires legal and executive review prior to publishing</p>
-  <p style='line-height:normal;mso-pagination:none'><o:p>&nbsp;</o:p></p>
+  <p><o:p>&nbsp;</o:p></p>
   </td>
   <td>
-  <p style='line-height:normal;mso-pagination:none'>Requires
+  <p>Requires
   legal and executive review prior to publishing</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:4'>
   <td>
-  <p style='line-height:normal;mso-pagination:none'><b
+  <p><b
  >Level of use</b></p>
   </td>
   <td>
-  <p style='line-height:normal;mso-pagination:none'>Data is
+  <p>Data is
   frequently accessed in other formats </p>
   </td>
   <td>
-  <p style='line-height:normal;mso-pagination:none'>Dataset is
+  <p>Dataset is
   frequently requested internally and through Public Records Act or FOIA</p>
   </td>
   <td>
-  <p style='line-height:normal;mso-pagination:none'>Dataset
+  <p>Dataset
   supports strategic plan or other policy related documents.</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:5'>
   <td>
-  <p style='line-height:normal;mso-pagination:none'><b
- >Publishing frequency</b></p>
+  <p><b>Publishing frequency</b></p>
   </td>
   <td>
-  <p style='line-height:normal;mso-pagination:none'>This data
+  <p>This data
   is published at consistent frequent intervals, such as two per month</p>
   </td>
   <td>
-  <p style='line-height:normal;mso-pagination:none'>This data
+  <p>This data
   is published at consistent intermediate intervals, such as once per month or
   two per quarter</p>
   </td>
   <td>
-  <p style='line-height:normal;mso-pagination:none'>This data
+  <p>This data
   is published at consistent infrequent intervals, such as once per quarter or
   two per year</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:6;mso-yfti-lastrow:yes'>
   <td>
-  <p style='line-height:normal;mso-pagination:none'><b
+  <p><b
  >Communications Effort</b></p>
   </td>
   <td>
-  <p style='line-height:normal;mso-pagination:none'>Publishing
+  <p>Publishing
   this dataset or group of datasets is accompanied by social media outreach </p>
   </td>
   <td>
-  <p style='line-height:normal;mso-pagination:none'>Publishing
+  <p>Publishing
   this dataset or group of datasets is accompanied by a press release and
   social media outreach</p>
   </td>
   <td>
-  <p style='line-height:normal;mso-pagination:none'>Publishing
+  <p>Publishing
   this dataset or group of datasets is accompanied by a robust communications
   strategy event, or publication</p>
   </td>
