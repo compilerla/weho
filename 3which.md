@@ -42,70 +42,51 @@ Once your source systems are identified, you may begin to identify the possible 
 Once you have defined what exists in your source systems and completed your data inventory, the department should define what in your inventory should be prioritized for publishing. To do this, first begin by grouping your inventory into three categories: passive, active, and strategic.  A high quality data publishing practice contains a consistent mix of all three categories, publishing at regular intervals as detailed below:
 
 
-<table class=a border=0 cellspacing=0 cellpadding=0 width=458 style='margin-left:
- 1.5pt;border-collapse:collapse;mso-table-layout-alt:fixed;mso-yfti-tbllook:
- 1536;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td width=89 valign=top style='width:88.5pt;background:#666666;padding:5.0pt 5.0pt 5.0pt 5.0pt'>
+<table class="responsive">
+ <tr>
+  <th>
   <p><o:p>&nbsp;</o:p></p>
-  </td>
-  <td width=119 valign=top style='width:119.25pt;background:#666666;padding:
-  5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p><b
- ><span style='color:white'>Passive
-  Publishing</span></b></p>
-  </td>
-  <td width=115 valign=top style='width:114.75pt;background:#666666;padding:
-  5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p><b
- ><span style='color:white'>Active
-  Publishing </span></b></p>
-  </td>
-  <td width=135 valign=top style='width:135.0pt;background:#666666;padding:
-  5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p><b
- ><span style='color:white'>Strategic
-  Publishing</span></b></p>
-  </td>
+  </th>
+  <th>
+  <p><b>Passive Publishing</b></p>
+  </th>
+  <th>
+  <p><b>Active Publishing</b></p>
+  </th>
+  <th>
+  <p><b>Strategic Publishing</b></p>
+  </th>
  </tr>
- <tr style='mso-yfti-irow:1'>
-  <td width=89 valign=top style='width:88.5pt;padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p><b
- >Data Location</b></p>
-  </td>
-  <td width=119 valign=top style='width:119.25pt;padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p>Publicly
-  available in digital or print format</p>
+ <tr>
+  <td>
+  <p><b>Data Location</b></p>
   </td>
   <td>
-  <p>Unpublished
-  but shared internally upon request</p>
+  <p>Publicly available in digital or print format</p>
   </td>
   <td>
-  <p>Unpublished
-  but shared internally upon request</p>
+  <p>Unpublished but shared internally upon request</p>
+  </td>
+  <td>
+  <p>Unpublished but shared internally upon request</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2'>
   <td>
-  <p><b
- >Data Security Level (High, Medium, Low)</b></p>
+  <p><b>Data Security Level (High, Medium, Low)</b></p>
   </td>
   <td>
-  <p>Dataset
-  contains no Personal Identifiable Information (PII) or sensitive content</p>
+  <p>Dataset contains no Personal Identifiable Information (PII) or sensitive content</p>
   </td>
   <td>
-  <p>Data may need to be scrubbed for PII or
-  sensitive information</p>
+  <p>Data may need to be scrubbed for PII or sensitive information</p>
   </td>
   <td>
-  <p>Data may need to be scrubbed for PII or
-  sensitive information</p>
+  <p>Data may need to be scrubbed for PII or sensitive information</p>
 
   </td>
  </tr>
- <tr style='mso-yfti-irow:3'>
+ <tr>
   <td>
   <p><b>Data cleaning </b></p>
   </td>
@@ -122,7 +103,7 @@ Once you have defined what exists in your source systems and completed your data
   legal and executive review prior to publishing</p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:4'>
+ <tr>
   <td>
   <p><b
  >Level of use</b></p>
@@ -140,7 +121,7 @@ Once you have defined what exists in your source systems and completed your data
   supports strategic plan or other policy related documents.</p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:5'>
+ <tr>
   <td>
   <p><b>Publishing frequency</b></p>
   </td>
@@ -159,7 +140,7 @@ Once you have defined what exists in your source systems and completed your data
   two per year</p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:6;mso-yfti-lastrow:yes'>
+ <tr>
   <td>
   <p><b
  >Communications Effort</b></p>
