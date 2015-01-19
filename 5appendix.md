@@ -26,6 +26,9 @@ title: "Appendix"
 * Data Steward (Business knowledge) - Name	
 * Data Steward (Business knowledge) - Email	
 * Data source
+	- What information system or database contains the data? 
+* Data Collection Mechanism
+	- Through what process (e.g. calls, inspections, etc) was this data collected?
 * What information system or database contains the data? 	
 * Start date: (MM/DD/YYYY)
 * End date: (MM/DD/YYYY; if the data is still being updated, use "Current")
