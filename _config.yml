@@ -11,18 +11,18 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               LA Open Data
-tagline:             'Policy and Playbook'
-description:         'Draft Open Data Policy and Playbook from the Los Angeles Data Team'
+title:               CITY OF WEST HOLLYWOOD INNOVATIONS
+tagline:             'ANNUAL REPORT 2015'
+description:         'Inagural report on innovations from the WeHoX Team'
 url:                 http://datala.github.com
-baseurl:             /od-policy/
+baseurl:             /2015-report/
 paginate:            5
 
 # About/contact
 author:
-  name:              Abhi Nemani
-  url:               https://twitter.com/abhinemani
-  email:             abhi.nemani@lacity.org
+  name:              WeHoX
+  url:               https://wehox.org
+  email:             
 
 # Custom vars
 version:             2.0.0
