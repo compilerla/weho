@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Part 2: Why innovate?"
+title: "Part 1: Why innovate?"
 ---
 
 # Why innovate? Challenges and opportunities in West Hollywood</h1>
