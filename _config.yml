@@ -14,8 +14,8 @@ relative_permalinks: true
 title:               LA Open Data
 tagline:             'Policy and Playbook'
 description:         'Draft Open Data Policy and Playbook from the Los Angeles Data Team'
-url:                 http://datala.github.com
-baseurl:             od-policy/
+url:                 http://compiler.github.com
+baseurl:             2015-report/
 paginate:            5
 
 # About/contact
