@@ -1,1 +1,1 @@
-This document is organized into two high-level sections, detailing the City of Los Angeles Open Data Program: the strategic policy, featuring the why and how; and then the operational playbook, explaining in more detail which datasets to open and specifically how-to do so per best practices.
+See [WeHoX.org](http://wehox.org) for more information.

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Part 2: A History of Civic Creativity"
+title: "Part 2: West Hollywood innovations–
+A history of civic creativity"
 ---
 
 ## West Hollywood Innovations: A History of Civic Creativity
