@@ -13,7 +13,7 @@ relative_permalinks: true
 # Setup
 title:               CITY OF WEST HOLLYWOOD INNOVATIONS
 tagline:             'ANNUAL REPORT 2015'
-description:         'Inaugural report on innovations from the WeHoX Team'
+description:         'Inaugural report on innovations from the WeHoX Team.'
 url:                 http://compilerla.github.com
 baseurl:             /weho
 paginate:            5
