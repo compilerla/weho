@@ -3,8 +3,8 @@ layout: page
 title: "Part 1: Why innovate? Challenges and opportunities in West Hollywood"
 ---
 
-# Why innovate? Challenges and opportunities in West Hollywood</h1>
-The City of West Hollywood Innovations Annual Report is the first product of the WeHoX process, launched by the City to encourage new levels of civic innovation that benefit all stakeholders.
+<p class="message">
+The City of West Hollywood Innovations Annual Report is the first product of the WeHoX process, launched by the City to encourage new levels of civic innovation that benefit all stakeholders.</p>
 
 The City of West Hollywood has been developing innovations in civic technology and citizen engagement for over 30 years. Understanding the history of innovation in the City, from its founding to today, is important context for our work going forward. The programs listed in Part 2 demonstrate West Hollywood’s significant achievements in deploying innovative programming and pilot projects through 2015. This report links specific recommendations for innovative programs to identified needs for the City, and recommends ways to document the impact of existing innovations.
 As with all City initiatives, the WeHoX team structured this report and the WeHoX process to support the City’s General Plan Goals and Policies and Vision 2020 Strategic Plan.

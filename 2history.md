@@ -4,8 +4,6 @@ title: "Part 2: West Hollywood innovations–
 A history of civic creativity"
 ---
 
-## West Hollywood Innovations: A History of Civic Creativity
-
 <p class="message">West Hollywood is The Creative City—innovation is in our DNA. Despite its small geography, West Hollywood has become one of the most influential small cities in the nation. The progressive spirit of the City is evident in its many groundbreaking accomplishments during the 30 years since it established Cityhood in 1984.</p>
 
 In 1984, the first West Hollywood City Council established West Hollywood as the first City in the nation to have a majority openly gay governing body. This was a landmark development in LGBT rights globally and in the United States.

@@ -4,7 +4,7 @@ title: "Part 3: WeHoX: Engaging Public and Private
 Sectors in Innovation"
 ---
 
-The WeHoX innovation and technology program was launched in 2014 to expand the City of West Hollywood’s leadership in civic innovation.
+<p class="message">The WeHoX innovation and technology program was launched in 2014 to expand the City of West Hollywood’s leadership in civic innovation.</p>
 
 ## WeHoX Team and Salons
 WeHoX is an initiative designed to engage the diverse and talented members of the West Hollywood community in dialogue with City staff to improve the City’s capacity for innovation.
